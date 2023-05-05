@@ -58,6 +58,7 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 75px;
 }
 
 .user-info {
