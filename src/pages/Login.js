@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div className="container">
-      <h1>Magic Auth + Twitter</h1>
+      <h1>Magic + Twitter</h1>
       <button onClick={handleSocialLogin}>
         <FaTwitter size={"2.5rem"} />
         Log in with Twitter
